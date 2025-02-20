@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+selenium
+pandas
+sqlite3
+json
+pyodbc
+webdriver-manager
+concurrent.futures
+openpyxl
+logging
