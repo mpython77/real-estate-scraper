@@ -63,31 +63,3 @@ venv/
 *.log
 scraped_data/
 cache/
-```
-
-## Uploading to GitHub
-1. **Create a new repository**
-   Go to GitHub and create a new repository: [GitHub](https://github.com/)
-
-2. **Link the repository to your local project:**
-   ```bash
-   cd C:\Users\kelaj\OneDrive\Ishchi stol\real-estate-scraper
-   git init
-   git remote add origin https://github.com/mpython77/real-estate-scraper.git
-   ```
-
-3. **Add and commit files:**
-   ```bash
-   git add README.md requirements.txt LICENSE Project.py .gitignore
-   git commit -m "Initial commit"
-   ```
-
-4. **Push to GitHub:**
-   ```bash
-   git branch -M main
-   git push -u origin main
-   ```
-
-## License
-Distributed under the MIT License.
-
