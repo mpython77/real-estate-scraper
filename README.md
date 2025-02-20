@@ -55,11 +55,3 @@ The scraped data is stored in the following formats:
 - Excel: `scraped_data/01.halooglasi_FINAL_extracted_data.xlsx`
 - SQLite: `scraped_data/real_estate_listings.db`
 
-## .gitignore
-```
-__pycache__/
-venv/
-*.db
-*.log
-scraped_data/
-cache/
